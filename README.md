@@ -11,3 +11,4 @@ Learning about Wordpresss hierarchy, codex, dev environment for wordpress.
 31/01/2019
 Setting up my first Wordpress theme.
 
+01/02/2019 Learning about "the loop" in wordpress.
